@@ -16,15 +16,15 @@
 * 객체를 생성하는 설계도
 ```java
 public class Cat {
-	private String name;
-	
-	public void meow() {
-		System.out.println(name + "~~~~~~" + "웁니다");
-	}
-	
-	public Cat(String name) {
-		this.name = name;
-	}
+    private String name;
+    
+    public void meow() {
+        System.out.println(name + "~~~~~~" + "웁니다");
+    }
+    
+    public Cat(String name) {
+    	this.name = name;
+    }
 }
 ```
 
