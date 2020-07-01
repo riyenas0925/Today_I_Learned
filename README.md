@@ -12,3 +12,6 @@
 
 ### Java
 * [UML 기초](https://github.com/riyenas0925/Today_I_Learned/blob/master/Java/UML%20Basic.md)
+
+### TIL
+* [200701](https://github.com/riyenas0925/Today_I_Learned/blob/master/TIL/200701.md) 일기 
